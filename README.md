@@ -1,5 +1,3 @@
-# SEB Tool
-
 ![Header Image](https://i.imgur.com/PTtca5T.png)
 
 ## Overview

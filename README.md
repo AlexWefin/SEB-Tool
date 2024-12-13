@@ -28,9 +28,10 @@ You need to add the game ID exactly as it appears in the emulator. The app manag
 
 1. **Understanding the IDs**: Ryujinx uses a different ID system compared to Yuzu. In the Ryujinx interface, you will see the game's actual ID, but for save management, you need to use the ID from the save directory.
     ![Game ID in Ryujinx](https://i.imgur.com/2W034ux.png)
-2. **Accessing the Save Directory**: Click on "File" and then "Open User Save Directory" to locate the save directory of the game.
+2. **Accessing the Save Directory**: Right-click on the game and select "Open User Save Directory" to locate the save directory of the game.
     ![Open User Save Directory](https://i.imgur.com/ELBHghd.png)
-3. **Copying the ID**: Navigate to the save folder and copy the folder name, which is the ID of the game.
+3. **Copying the ID**: Navigate to the save folder and copy the folder name, which contains a sequence of numbers. 
+    - **Example**: The folder name might look like `0000000000000004`.
     ![Save Directory](https://i.imgur.com/ps14odq.png)
 
 ## Features
